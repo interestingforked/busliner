@@ -1,0 +1,7 @@
+.lightTip                {  }
+.lightTip .content      { width: 310px; font-size:80%; padding: 10px; border: 6px solid #e2e2e2; -moz-border-radius: 5px; -webkit-border-radius: 5px; background: #ffffff; color: #020202; }
+.lightTip .bottom	{ height: 14px; background: url(/media/img/notch-white.png) top center no-repeat; }
+
+.orangeTip		 {  }
+.orangeTip .content	{ width: 310px; font-size:80%; padding: 10px; border: 2px solid #fe8e1e; -moz-border-radius: 5px; -webkit-border-radius: 5px; background: #fbe3aa; color: #020202; }
+.orangeTip .bottom	{ height: 14px; background: url(/media/img/notch-orange.png) top center no-repeat; }

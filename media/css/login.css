@@ -1,0 +1,15 @@
+* {font-family:"Lucida Grande","DejaVu Sans","Bitstream Vera Sans",Arial,sans-serif;}
+body {background:#eee;}
+a {color:#fff;text-decoration:none;}
+
+.alert, .warning, .accept {margin:10px 10px 20px;}
+
+#content-login {margin:150px auto 0 auto;width:350px;border:1px solid #ccc;background:white;}
+.header {background:#417690;padding:10px 15px;}
+.header a {font-size:18px;}
+.login {padding:10px;}
+.form-row {padding:4px 0;float:left;width:100%;}
+.form-row label {float:left;width:115px;padding-right:10px;line-height:30px;text-align:right;color:#333;}
+.form-row input {padding:3px 5px;}
+.submit-row {clear:both;padding:10px 0 0 125px;}
+.submit-row input {padding:3px 7px;font-size:15px;}

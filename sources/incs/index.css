@@ -1,0 +1,45 @@
+#layout{background: url(../img/back.jpg) no-repeat 50% 0;}
+#bus-in {
+	margin-right: -100%;
+}
+#bus-in {
+	left: 20%;
+	width: 35%;
+	top:70px;
+	
+}
+#bus-in {
+	float: left;
+	position: relative;
+	z-index:9;
+
+}
+#buss {padding:0px 40px 80px; position: relative; overflow: hidden;}
+#buss .inner {padding: 0px;}
+
+#bus-in2 {
+	width: 42%;
+}
+
+#bus-in2 {
+	float: left;
+	left: 58%;
+	position: relative; top:145px;
+	z-index:8;
+}
+#menu_left {padding-top:250px;}
+#intro {position:relative; padding-top:25px; z-index:11;}
+#intro .star {position:absolute; top:-40px; left:-50px; z-index:11}
+#intro_content {position:relative; left:45px; z-index:12}
+#first_right {position:relative; top:90px; padding-left: 150px;}
+
+#made_in{float:left;position:relative;left: 62%; width: 35%; padding-top:2em; padding-bottom:2em;}
+#made_in div {padding-left:100px;}
+
+#f_coaches{clear:both;position:relative;font-size:82%;padding-bottom:3em; padding-left:55px;}
+#f_coaches i{background:url(../img/phone_icon.png);}
+#f_coaches i{height:45px;left:0px;position:absolute;top:0px;width:45px}
+
+#footer-index{padding-bottom:20px;width:100%;font-size:79%; border-top: solid 1px #ecebeb;}
+#footer-index .wrap{margin:0 auto; padding:0 40px;}
+#copyright{float:left;padding-top:2em; padding-bottom:2em; position:relative;clear:both;width:40%; margin-right: -100%;}
